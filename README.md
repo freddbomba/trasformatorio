@@ -1,3 +1,5 @@
 # trasformatorio
-A collection of materials for a book (or a "thing") about the art of transformations
-open or semi open collaboration project
+Reports and catalogue entries for the Trasformatorio
+
+2021 - Cosio
+2023 - Alto
